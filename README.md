@@ -12,3 +12,4 @@ Things I sometimes think about
 - S-U混沌人格系统，模拟“被反复无常对待后的认知扭曲”。
 
 **设计者**：wj3613
+© 2026 wj3613. 本作品采用 CC BY-NC 4.0 协议授权。
