@@ -209,5 +209,5 @@ response = llm_generate(system_prompt, detail, user_input)
 设计者期待硬件算力普及后，将本方案从概念推向实践。
 
 ```
-
+© 2026 wj3613. 本作品采用 CC BY-NC 4.0 协议授权。
 ---
